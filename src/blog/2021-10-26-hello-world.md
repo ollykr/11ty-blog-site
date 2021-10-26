@@ -5,7 +5,6 @@ author: Oleg
 date: 2021-10-26T21:44:56.361Z
 tags:
   - post
-  - featured
 image: /assets/blog/ol.jpg
 imageAlt: Myself
 ---
